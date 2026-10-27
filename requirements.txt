@@ -1,0 +1,25 @@
+fastapi
+uvicorn[standard]
+python-multipart
+
+pydantic
+pydantic-settings
+python-dotenv
+
+openai
+langchain
+langchain-core
+langchain-openai
+langchain-text-splitters
+langchain-pinecone
+
+pinecone
+
+redis
+
+pypdf
+python-docx
+
+# UI
+streamlit>=1.43
+requests
